@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="picture/logo%20-%20Copy.png" alt="Logo Osis" width="150">
+  <img src="picture/Keseluruhan/logo - Copy.png" alt="Logo Osis" width="150">
   <h1>OSIS SMAFISTA</h1>
 </div>
 
 
 <div align="center">
-   A website for <a href="https://devchallenges.io/challenge/minimal-blog-card" target="_blank">OSIS SMAFISTA</a> for <a href="https://alfityantangerang.sch.id/sma/" target="_blank">SMA Al-FITYAN SCHOOL TANGERANG</a>
+   Building a website <a href="https://osisputrasmafista.pages.dev" target="_blank">OSIS PUTRA SMAFISTA</a> for<br><a href="https://alfityantangerang.sch.id/sma/" target="_blank">SMA Al-FITYAN SCHOOL TANGERANG</a>
 </div>
 
 <div align="center">
   <h3>
-    Made By <br>
+    © Made By <br>
     <a href="https://arza707.github.io/Simple-Blog-Card/">
       Arza
     </a>
@@ -54,7 +54,9 @@ On the first day, we came up with the initial concept together. My friend, ibi w
 
 ## Overview
 
-![screenshot](picture/Thumbnail%20for%20readme.png)
+![screenshot](picture/Readme/Thumbnail%20for%20readme.png)
+
+- Website =  [https://osisputrasmafista.pages.dev](https://osisputrasmafista.pages.dev)
 
 <!--
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
@@ -89,5 +91,10 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ## Author
 
-- Website [OSIS SMAFISTA](https://osismafista.pages.dev)
-- GitHub [@Arza707](https://github.com/Arza707)
+- Programmer: [Arza Maulana Zafar](https://www.instagram.com/arzafar707?igsh=djdhYXBzMTh6cTZz)
+- Designer: [Jilan Sorob Ibi](https://www.instagram.com/jylan.sor?igsh=MTA3N2Y5cThseThheA==)
+- Assisted by:
+  - [Satya Zahir Danendra]()
+  - [Adrian Putra Joemantara](https://www.instagram.com/adrionnss?igsh=b2lvamlkYXQydXZo)
+
+<h1 align=center>- <u>Thank You</u> -</h1>
