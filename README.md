@@ -1,6 +1,6 @@
 <div align="center">
   <img src="picture/Keseluruhan/logo - Copy.png" alt="Logo Osis" width="150">
-  <h1>OSIS SMAFISTA</h1>
+  <h1>OSIS PUTRA SMAFISTA</h1>
 </div>
 
 
